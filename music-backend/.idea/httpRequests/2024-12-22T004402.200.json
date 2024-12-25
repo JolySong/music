@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "status": true,
+  "message": "success",
+  "data": [
+    {
+      "id": 1,
+      "title": "无名的人",
+      "artist": "无名的人",
+      "album": "孙楠",
+      "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/e1/e6/94e1e664-6b76-0191-f3ca-4205163fc0c5/cover.jpg/1200x1200bb.webp",
+      "url": "/api/songs/1/audio",
+      "duration": null,
+      "fileSize": 5118037,
+      "mimeType": "audio/mpeg"
+    },
+    {
+      "id": 2,
+      "title": "爱情转移",
+      "artist": "chen",
+      "album": "陈奕迅",
+      "coverUrl": null,
+      "url": "/api/songs/2/audio",
+      "duration": null,
+      "fileSize": 10405305,
+      "mimeType": "audio/mpeg"
+    }
+  ],
+  "timestamp": 1734799442254
+}
